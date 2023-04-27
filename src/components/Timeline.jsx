@@ -52,7 +52,7 @@ const Timeline = () => {
         <p className={`${styles.sectionSubText} text-center`}>
           What I have done so far
         </p>
-        <h2 className={`${styles.sectionHeadText} text-center`}>
+        <h2 className={`${styles.sectionHeadText} text-center text-hover-threed text-hover-threed`}>
           Work Experience.
         </h2>
       </motion.div>

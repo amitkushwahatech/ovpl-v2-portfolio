@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
-
+import "./z.css"
 const Hero = () => {
   return (
     <section className={`relative w-full h-screen mx-auto`}>
@@ -18,7 +18,7 @@ const Hero = () => {
           <h1 className={`${styles.heroHeadText} text-white `}>
           Cresco<span className='text-[#915EFF]'> Together!</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+          <p className={`${styles.heroSubText} mt-2 text-white-100 ` }>
           Web 3.0 Unlocked: Embrace <br className='sm:block hidden' />
           the Power of Digital Opulence.
           </p>
@@ -28,7 +28,14 @@ const Hero = () => {
       <ComputersCanvas />
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
-        <a href='#about'>
+      <a href="#" id="section05">
+         <span></span>
+         
+      </a>
+      <a href="#" id="section06"><span></span></a>
+      <a href="#" id="section07"><span></span></a>
+      <a href="#" id="section04"><span></span></a>
+        {/* <a href='#about'>
           <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
             <motion.div
               animate={{
@@ -42,8 +49,9 @@ const Hero = () => {
               className='w-3 h-3 rounded-full bg-secondary mb-1'
             />
           </div>
-        </a>
+        </a> */}
       </div>
+     
     </section>
   );
 };
