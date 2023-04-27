@@ -1,7 +1,7 @@
 # Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
 ## 1 Sign up then excess the main page
 
-## Imp Notice - Don't forget to logout and delete account option at the bottom of the main page after login  remove save id or logout ( " got to the bottom of the page " )
+## Imp Notice - Don't forget to logout and delete account option at the bottom of the main page after login  remove save id or logout ( " go to the bottom of the page " )
 ![image](https://user-images.githubusercontent.com/120050605/234868226-a8c0c5a0-34bb-4f61-8d99-758cb76bb5bb.png)
 
 ![image](https://user-images.githubusercontent.com/120050605/234868459-1063fc9a-0545-4489-9762-a444125cd4f6.png)
