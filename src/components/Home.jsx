@@ -44,7 +44,7 @@ function Home(){
       </div> 
       {/* </div> */}
       <div className="flex bg-primary " style={{padding:"30px",marginBottom:"80px",position:"relative"}}>
-            <p style={{background:"none",padding:"0.1em"}}>Wellcome {localStorage.getItem('name')}</p>
+            <p style={{background:"none",padding:"0.1em"}}>Welcome {localStorage.getItem('name')}</p>
             <button onClick={logout} className="logoutbtn">LogOut</button>
             <button onClick={deleteAccount} className="deletebtn">Delete</button> 
             </div>
