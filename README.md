@@ -38,12 +38,11 @@ The most impressive websites in the world use 3D graphics and animations to brin
 ## Note - you cal remove save id or logout ( " got to the bottom of the page " )
 - React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 - TailwindCSS - a popular utility-first CSS styling framework
-![image](https://user-images.githubusercontent.com/120050605/234739763-e4da6811-cffa-4112-b237-e13f76669ad8.png)
 
 - Framer Motion - the most popular library used to bring your React website to life with animations
 You'll also learn how to:
 - Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-![image](https://user-images.githubusercontent.com/120050605/234739816-3ae07d76-9685-4ef2-96b8-7675ca3b87f2.png)
+
 
 - Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
 - Implement sending emails through a form on the website
